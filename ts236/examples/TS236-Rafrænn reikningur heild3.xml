@@ -220,7 +220,7 @@
       <cbc:PayerFinancialAccount>
          <cbc:ID>654321654</cbc:ID>
       </cbc:PayerFinancialAccount>
-   <cac:PaymentMandate>
+   </cac:PaymentMandate>
 
 	<cac:PaymentTerms>
 		<cbc:Note>Vanskilagjald leggst við upphæðina eftir eindaga auk dráttarvaxta sem reiknast frá gjalddaga.</cbc:Note>
